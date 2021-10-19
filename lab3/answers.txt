@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The time is similar in reversed and sorted text.
+
+
+sort2 uses: Merge Sort
+
+How do you know?: It's fastest.
+
+
+sort3 uses: Selection Sort
+
+How do you know?: The sorted text takes more time than reversed text.
+
